@@ -1,1 +1,1 @@
-print("deleted branch")
+print("deleted branch after merging into main branch")
